@@ -1,14 +1,18 @@
 # About Joachim Wiegert
 
-Previously a researcher in astronomy and now a student of AI and machine learning. This is an exciting field of computer science that seems to have an ever-expanding need for experts. For me, this may open up doors to other careers than a purely academic research career. However, it may also help me stay in academia at the same time since machine learning and data sciences are extremely valuable experiences to have in modern physical and astrophysical research. For example, modern observatories gathers terabytes of data every day.
+Previously a researcher in astronomy and now a student of AI and machine learning. This is an exciting field of computer science that seems to have an ever-expanding need for experts. For me, this opens doors to other careers than a purely academic research career, However, it may also simultaneously help me within academia since machine learning and data sciences are extremely tools for modern physical and astrophysical research. Modern observatories gathers terabytes of data every day, and it is becoming increasingly difficult for astronomers to work with these data.
 
-## Retro interests
+## Previous programming skills
 
-I have a great interest in retro computing, but I do not own that many retro stuff yet. I do own a Commdore 64, which works(!), and an SD-card reader. Recently, I refurbished my first own computer, a Shuttle PC I bought in 2002. This is a great "middle-computer" since it is compatible with software from the 90s and easy to copy software to via its USB-1 plugs.
+- Python2 and 3 : Numerical work and data analysis. Primarily with Numpy, SciPy, and Matplotlib.
+- C : Simulations, e.g., orbital dynamics with restricted N-body problems with Monte-Carlo based initial states.
+- Matlab : Numerical work, data analysis, data processing, with built-in tools (e.g., image processing, wavelets, Simulink).
 
-Retro gaming is also an interest (NES, SNES), but I do not need to go into this here.
+### Programming portfolio :briefcase:
 
-## Research papers
+* Under construction
+
+## Research papers :briefcase:
 
 (For popular science articles, please see: https://www.popularastronomi.se/author/joachimw/ )
 
