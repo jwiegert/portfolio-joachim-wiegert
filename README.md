@@ -14,11 +14,11 @@ Previously a researcher in astronomy and now a student of AI and machine learnin
 
 ## Research papers :briefcase:
 
-(For popular science articles, please see: https://www.popularastronomi.se/author/joachimw/ )
+(For popular science articles, please see (in Swedish): https://www.popularastronomi.se/author/joachimw/ )
 
 ### First author papers
 
-|How dusty is alpha Centauri? Excess or non-excess over the infrared photospheres of main-sequence stars|
+|How dusty is $\alpha$ Centauri? Excess or non-excess over the infrared photospheres of main-sequence stars|
 |-----------------------------------|
 |J. Wiegert, R. Liseau, P. Thébault, G. Olofsson, A. Mora, G. Bryden, J. P. Marshall, C. Eiroa, B. Montesinos, D. Ardila, J. C. Augereau, A. Bayo Aran, W. C. Danchi, C. del Burgo, S. Ertel, M. C. W. Fridlund, M. Hajigholi, A. V. Krivov, G. L. Pilbratt, A. Roberge, G. J. White, and S. Wolf|
 |Astronomy & Astrophysics, 563, A102, 15 pp (2014)|
@@ -49,7 +49,7 @@ Astronomy & Astrophysics, 642, A142, 15 pp (2020)|
 
 ### Co-author papers
 
-|The effective stability parameter for two-component galactic discs: is Q^-1 ~ Qstars^-1 + Qgas^-1?|
+|The effective stability parameter for two-component galactic discs: is $Q^{-1} \sim Q_{\rm stars}^{-1} + Q_{\rm gas}^{-1}$?|
 |-----------------------------|
 |Alessandro B. Romeo, Joachim Wiegert|
 |Monthly Notices of the Royal Astronomical Society, 416, 1191–1196 (2011)|
@@ -57,7 +57,7 @@ Astronomy & Astrophysics, 642, A142, 15 pp (2020)|
 |https://academic.oup.com/mnras/article/416/2/1191/1059217|
 
 
-|alpha Centauri A in the far infrared. First measurement of the temperature minimum of a star other than the Sun|
+|$\alpha$ Centauri A in the far infrared. First measurement of the temperature minimum of a star other than the Sun|
 |------------------------------|
 |R. Liseau, B. Montesinos, G. Olofsson, G. Bryden, J. P. Marshall, D. Ardila, A. Bayo Aran, W. C. Danchi, C. del Burgo, C. Eiroa, S. Ertel, M. C. W. Fridlund, A. V. Krivov, G. L. Pilbratt, A. Roberge, P. Thébault, J. Wiegert, and G. J. White|
 |Astronomy & Astrophysics, 549, L7, 5 pp (2013)|
