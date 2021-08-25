@@ -12,9 +12,9 @@ Previously a researcher in physics and astronomy, and now a student of AI and ma
 
 * Under construction
 
-## Research papers :briefcase:
+## Research papers :newspaper:
 
-(For popular science articles, please see (in Swedish): https://www.popularastronomi.se/author/joachimw/ )
+For popular science articles, please see (in Swedish): https://www.popularastronomi.se/author/joachimw/
 
 ### First author papers
 
