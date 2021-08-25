@@ -1,6 +1,6 @@
 # About Joachim Wiegert
 
-Previously a researcher in physics and astronomy, and now a student of AI and machine learning. This is an exciting field of computer science that seems to have an ever-expanding need for experts. For me, this will open doors to other careers outside purely academic research, however, it will also, simultaneously, help me within academia since machine learning and data sciences are extremely valuable tools for modern physical and astrophysical research. Modern observatories gathers terabytes of data every day, and it is becoming increasingly difficult for astronomers to work with these. In addition, it is fun to explore data and to work with Python!
+Previously a researcher in physics and astronomy, and now a student of AI and machine learning. This is an exciting field of computer science that seems to have an ever-expanding need for experts. For me, this will open doors to other careers outside purely academic research, and simultaneously, it will help me within academia since machine learning and data sciences are extremely valuable tools for modern physical and astrophysical research. Modern observatories gathers terabytes of data every day, and it is becoming increasingly difficult for astronomers to work with these. In addition, it is fun to explore data and to work with Python!
 
 ## Previous programming skills
 
