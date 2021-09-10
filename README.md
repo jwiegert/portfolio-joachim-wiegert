@@ -10,7 +10,10 @@ Previously a researcher in physics and astronomy, and now a student of AI and ma
 
 ### Programming portfolio :briefcase:
 
-* Under construction
+* Codes and material from astronomy research are at [astro-dust-codes](https://github.com/jwiegert/astro-dust-codes) (under construction).
+
+* Numerous scripts and material from Machine Learning and AI education at [IT-Högskolan](https://www.iths.se/) can be found at [python-programming-joachim-wiegert](https://github.com/jwiegert/python-programming-joachim-wiegert) (coding and lecture notes, in Swedish and English) and at [intro-till-ai-jwiegert](https://github.com/jwiegert/intro-till-ai-jwiegert) (short introductory course on AI in the industry).
+
 
 ## Research papers :newspaper:
 
